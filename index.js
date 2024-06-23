@@ -1,5 +1,5 @@
 inspMessages = () => {
-  let messageNum = Math.floor(Math.random() * 2);
+  let messageNum = Math.floor(Math.random() * 3);
 
   switch (messageNum) {
     case 0:
